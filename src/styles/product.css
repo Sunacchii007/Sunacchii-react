@@ -1,0 +1,43 @@
+.Theprds {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.theprds-item {
+  margin-top: 30px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  gap: 20px;
+  
+}
+
+.theprds-top {
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+  background-color: rgb(231, 229, 229);
+  border-radius: 75px;
+  width: 100vh;
+  margin-left: 500px;
+  
+}
+.theprds-top li{
+  display: flex;
+  justify-content: center;
+  
+  text-decoration: none;
+}
+
+.theprds-top h2 {
+  color: rgb(248, 106, 248);
+  margin: 20px;
+  cursor: pointer;
+  transition: border 0.3s ease; /* Add a smooth transition effect on border change */
+}
+
+.theprds-top h2:hover {
+  color: blueviolet;
+  border-bottom: 2px solid purple;
+}

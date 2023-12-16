@@ -1,0 +1,53 @@
+#link{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    font-size:14px;
+    font-weight:700
+}
+
+@media screen and (max-width:933px){
+    li {
+      text-align:center
+    }
+
+}
+@media screen and (min-width:933px){
+    #mobilebtn {
+      display: none;
+    }
+}
+
+.navbar-toggler {
+    position: absolute;
+    right: 15px;
+    top: 10px;
+}
+#cc{
+    border: none; 
+}
+#icons{
+    color: rgb(0, 0, 0);
+}
+
+
+#Cart{
+    background-color: #9FA6B2;
+    border-radius: 2cm;
+    color: #FBFBFB;
+    font-weight: 700;
+    font-size:14px;
+}
+#Cart:hover{
+    color: #332D2D;
+}
+#Cart:hover #items_number{
+    transition: transform 0.3s ease;
+    animation: horizontal-shaking 0.8s infinite;
+}
+  @keyframes horizontal-shaking {
+    0% { transform: translateX(0) }
+    25% { transform: translateX(3px) }
+    50% { transform: translateX(-3px) }
+    75% { transform: translateX(3px) }
+    100% { transform: translateX(0)}
+}

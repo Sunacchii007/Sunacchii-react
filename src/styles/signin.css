@@ -1,0 +1,53 @@
+*{
+    margin: 0px;
+}
+.sign{
+    width: 100%;
+    height: 80vh;
+    background: rgb(255, 255, 255);
+    padding-top: 100px;
+
+}
+.sign-cont{
+    width: 600px; 
+    height: 500px;
+    background: linear-gradient(180deg, #00bee9c2, #c70092 );
+    margin: auto;
+    padding: 40px 60px;
+}
+.sign-cont h1{
+    display: flex;
+    color: white;
+    align-items: center;
+    justify-items: center;
+    flex-direction: column;
+}
+.sign-field{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    gap: 29px;
+    margin-top: 30px;
+}
+.sign-field input{
+    height: 72px;
+    width: 100%;
+    padding-left: 20px;
+    border: 1px solid whitesmoke;
+    outline: none;
+    color: #000000;
+    font-size: 18px;
+}
+.sign-cont button{
+    margin-left:0px;
+    width: 480px;
+    height: 72px;
+    color: rgb(255, 255, 255);
+    background: rgb(47, 255, 0);
+    margin-top: 30px;
+    border: none;
+    font-size: 24px;
+    font-weight: 500;
+    cursor: pointer;
+}
+

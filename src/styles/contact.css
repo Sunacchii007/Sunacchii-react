@@ -1,0 +1,36 @@
+.cont{
+    height: 30vh;
+    background: linear-gradient(180deg, #fde1ff, #3f3f3f22 60% );
+    display: flex;
+    margin-top: 200px;
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+}
+.cont-in{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+
+}
+.cont h2{
+    color: black;
+    font-size: 50px;
+    font-weight: 600;
+    margin-top: 30px;
+}
+
+.btn{
+    margin-top: 5px;
+    margin-left: 10px;
+    background: rgb(219, 0, 0);
+    color: white;
+}
+.inp{
+    height: 50px;
+    width: 500px;
+}

@@ -1,0 +1,49 @@
+.item{
+    width: 350px;
+
+
+}
+.name-price{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    
+}
+.item p{
+    display: flex;
+    justify-content: center;
+    color: rgb(0, 0, 0);
+    font-size: 22px;
+    font-weight: 500; 
+    
+}
+
+.item img{
+    width: 30vh;
+    height: 35vh;
+
+}
+#pp{
+    margin-left: 30px;
+}
+.item button{
+    background: rgb(203, 0, 0);
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    border-radius: 25px;
+    margin-top: -15px;
+    margin-right: 30px;
+    margin-left: 15px;
+    
+
+}
+.item button:hover{
+    transform: scale(1.05);
+    transition: 0.6s;
+}
+.item img:hover{
+    transform: scale(1.05);
+    transition: 0.6s;
+}
+
