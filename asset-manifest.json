@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Sunacchii-react/static/css/main.f3a9474a.css",
+    "main.js": "/Sunacchii-react/static/js/main.010125a6.js",
+    "static/media/demon.jpg": "/Sunacchii-react/static/media/demon.453cc9b3cc737658fe60.jpg",
+    "static/media/ace.png": "/Sunacchii-react/static/media/ace.75e842c0eb53115a18c6.png",
+    "static/media/contes.jpg": "/Sunacchii-react/static/media/contes.c991da2ee4933dc1e6a6.jpg",
+    "static/media/moto-hagio.jpg": "/Sunacchii-react/static/media/moto-hagio.8de072ca14e09dc05bfc.jpg",
+    "static/media/moto-hagio-de-lhumain.jpg": "/Sunacchii-react/static/media/moto-hagio-de-lhumain.d8f8b3a132ddc8c27d7d.jpg",
+    "static/media/spidr-man.jpg": "/Sunacchii-react/static/media/spidr-man.e58328fd3d97e60343f1.jpg",
+    "static/media/One-Piece.jpg": "/Sunacchii-react/static/media/One-Piece.c97a2b669a3d9ff481c0.jpg",
+    "static/media/Onimusha.jpg": "/Sunacchii-react/static/media/Onimusha.837b6b4861deef8a93aa.jpg",
+    "static/media/Dead-Mount.jpg": "/Sunacchii-react/static/media/Dead-Mount.38aa76e9b7fad485abda.jpg",
+    "static/media/Kusuriya-no-Hitorigoto.jpg": "/Sunacchii-react/static/media/Kusuriya-no-Hitorigoto.576d6832f5babc44d549.jpg",
+    "static/media/Overtake.jpg": "/Sunacchii-react/static/media/Overtake.f3871ed7cdfaec5cdccf.jpg",
+    "static/media/mf-ghost.jpg": "/Sunacchii-react/static/media/mf-ghost.73be9c86198815641027.jpg",
+    "static/media/reborn.jpg": "/Sunacchii-react/static/media/reborn.5b45157863c82c6f58e4.jpg",
+    "index.html": "/Sunacchii-react/index.html",
+    "main.f3a9474a.css.map": "/Sunacchii-react/static/css/main.f3a9474a.css.map",
+    "main.010125a6.js.map": "/Sunacchii-react/static/js/main.010125a6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3a9474a.css",
+    "static/js/main.010125a6.js"
+  ]
+}
